@@ -1,0 +1,20 @@
+{
+  "name": "basicdogjoin",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Eveybushell/basicDogJoin#readme",
+  "bugs": {
+    "url": "https://github.com/Eveybushell/basicDogJoin/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eveybushell/basicDogJoin.git"
+  },
+  "license": "ISC",
+  "author": "Evey Bushell",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
